@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Odin94/WorkoutTimer/issues"
   },
-  "homepage": "https://github.com/Odin94/WorkoutTimer#readme"
+  "homepage": "https://github.com/Odin94/WorkoutTimer#readme",
+  "dependencies": {
+    "play-sound": "^1.1.3"
+  }
 }
