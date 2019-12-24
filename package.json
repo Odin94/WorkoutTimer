@@ -1,0 +1,19 @@
+{
+  "name": "workouttimer",
+  "version": "1.0.0",
+  "description": "Simple metronome-like timer to time workouts and stretches by sound",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Odin94/WorkoutTimer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Odin94/WorkoutTimer/issues"
+  },
+  "homepage": "https://github.com/Odin94/WorkoutTimer#readme"
+}
