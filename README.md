@@ -1,5 +1,7 @@
 # WorkoutTimer
-Simple metronome-like timer to time workouts and stretches by sound
+Simple metronome-like timer to time workouts and stretches by sound. 
+
+Plays a "click" sound every second and a "click clack" sound every 10 seconds so you can easily count eg. 60s planks.
 
 ## How to use
 * Install [Node.js](https://nodejs.org/en/)
